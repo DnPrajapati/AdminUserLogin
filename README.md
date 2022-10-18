@@ -17,3 +17,18 @@
 - Dashboard gives information as user have submitted.
 - Admin can Logout
 - Admin cannot access Product Details Form
+
+### Login Page
+![Kiku](ForReadMe/LoginPage.png)
+
+
+### Product Details for user
+![Kiku](ForReadMe/UserProductDetailsForm.png)
+
+
+### Dashboard for Admin
+![Kiku](ForReadMe/AdminDashboard.png)
+
+
+### No Page Found
+![Kiku](ForReadMe/NoPageFound.png)
